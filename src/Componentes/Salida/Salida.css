@@ -1,0 +1,35 @@
+.Avisos{
+    color: #223B26;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-decoration: solid;
+}
+
+.Formulario{
+    text-align: center;
+    color: #223B26;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.BotonFinalizar{
+    background-color: #223B26;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 15px;
+}
+
+.FotoFinal{
+    height: 250px;
+    width: 250px;
+}
+
+.Ingreso{
+    text-align: center;
+    color: #223B26;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-decoration: underline;
+}

@@ -1,0 +1,20 @@
+.BarraDeNav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #223B26;
+    margin: 0px;}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+ 
+a:hover{
+    text-decoration: underline;
+}
+
+.active{
+    text-decoration: underline;
+}

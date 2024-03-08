@@ -1,0 +1,19 @@
+.detalleProductos{
+    color:#223B26 ;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.FotoLibro{
+    height: 250px;
+    width: 250px;
+}
+
+.LinkCarrito{
+    background-color:#223B26 ;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}

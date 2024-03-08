@@ -1,0 +1,12 @@
+.FotoLibroCarrito{
+    height: 250px;
+    width: 250px;
+}
+
+.BotonEliminar{
+    background-color:#223B26 ;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}

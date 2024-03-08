@@ -1,0 +1,23 @@
+.logo{
+    background-color: #223B26;
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    font-size: 40px;
+    padding: 60px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtitulo{
+    background-color:#223B26 ;
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    font-size: 25px;
+    padding: 40px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

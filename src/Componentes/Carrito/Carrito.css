@@ -1,0 +1,22 @@
+.textoCarrito{
+    color: #223B26;
+    text-align: center;
+}
+
+.BotonVaciar{
+    color:#223B26 ;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+}
+
+.Finalizar{
+    background-color: #223B26;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    margin: 20px;
+    padding: 25px;
+    font-size: 25px;
+}

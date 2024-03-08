@@ -1,0 +1,11 @@
+.imagen{
+    width: 200px;
+    height: 200px;
+}
+
+.info{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 17px;
+    color:  #223B26;;
+}
